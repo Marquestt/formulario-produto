@@ -1,0 +1,27 @@
+.containerList{
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.containerList h2 {
+    text-align: center;
+    font-size: 1.6rem;
+    border-bottom: .09rem solid var(--font-color);
+    padding-bottom: .07rem;
+}
+
+.list {
+    display: flex;
+    flex-flow: column wrap;
+    align-items: justify;
+    gap: .3rem;
+    font-size: 1.2rem;
+}
+
+.list strong {
+    font-weight: bold;
+    color: var(--primary-color);
+}

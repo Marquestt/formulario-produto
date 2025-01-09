@@ -1,0 +1,53 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Produto A",
+      "descricao": "Descrição do Produto A",
+      "valor": 100,
+      "disponivel": true
+    },
+    {
+      "id": "2",
+      "nome": "Produto B",
+      "descricao": "Descrição do Produto B",
+      "valor": 200,
+      "disponivel": false
+    },
+    {
+      "id": "baf3",
+      "nome": "Produto C",
+      "descricao": "",
+      "valor": 1.55,
+      "disponivel": true
+    },
+    {
+      "id": "fe58",
+      "nome": "Goiaba",
+      "descricao": "",
+      "valor": 2,
+      "disponivel": true
+    },
+    {
+      "id": "4051",
+      "nome": "Banana",
+      "descricao": "",
+      "valor": 1.99,
+      "disponivel": true
+    },
+    {
+      "id": "d814",
+      "nome": "Abacaxi",
+      "descricao": "",
+      "valor": 5,
+      "disponivel": true
+    },
+    {
+      "id": "55a8",
+      "nome": "Amora",
+      "descricao": "",
+      "valor": 2.5,
+      "disponivel": false
+    }
+  ]
+}

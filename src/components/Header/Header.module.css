@@ -1,0 +1,12 @@
+.container {
+    background-color: var(--secundary-color);
+    justify-content: center;
+    display: flex;
+    padding: 1rem;
+    border: .05rem solid var(--font-color);
+    box-shadow: .2rem .2rem .3rem rgba(61, 61, 61, 0.3);
+}
+
+.title {
+    font-size: 2rem;
+}

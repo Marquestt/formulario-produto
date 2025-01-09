@@ -1,0 +1,14 @@
+.button {
+    width: 10rem;
+    height: 2.5rem;
+    background-color: var(--primary-color);
+    color: var(--secundary-color);
+    border: .08rem solid var(--font-color);
+}
+
+.button:hover {
+    background-color: var(--secundary-color);
+    color: var(--font-color);
+    box-shadow: inset .2rem .2rem .3rem rgba(61, 61, 61, 0.3);
+    transition: .5s ease-in-out;
+}

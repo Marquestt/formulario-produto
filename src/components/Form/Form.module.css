@@ -1,0 +1,39 @@
+.form {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+div {
+    display: flex;
+    flex-flow: column wrap;
+    gap: .3rem;
+}
+
+label, legend {
+    font-size: 1.2rem;
+}
+
+input, textarea {
+    border-radius: .2rem;
+    border-color: var(--font-color);
+    border: .05rem solid var(--font-color);
+}
+
+fieldset {
+    display: flex;
+    justify-content: space-evenly;
+    border: .1rem dotted var(--font-color);
+    padding: 0 .3rem 1rem .3rem;
+}
+
+legend {
+    margin-bottom: 1rem;
+}
+
+.containerButton {
+    display: flex;
+    align-items: center;
+}

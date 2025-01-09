@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    flex-flow: row;
+    height: 80vh;
+    width: 100vw;
+    align-content: center;
+    justify-content: center;
+    gap: 6rem;
+}
