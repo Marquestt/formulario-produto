@@ -4,7 +4,7 @@ Projeto desenvolvido para o teste para a vaga de estágio na empresa Oak Tecnolo
 
 ## Link de acesso ao repositório no github:
 
-In the project directory, you can run:
+(https://github.com/Marquestt/formulario-produto)
 
 ### Link de acesso ao perfil do github:
 
